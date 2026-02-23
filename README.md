@@ -31,4 +31,4 @@ Please be mindful of the following considerations as you work through this solut
 
 Our questions will be around these topics mainly.
 
-Please ensure you do not raise PRs against this repository, to avoid giving ideas to future candidates.
+Please ensure you do not raise PRs or create forks against this repository, to avoid giving ideas to future candidates.
