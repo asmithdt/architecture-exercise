@@ -19,6 +19,7 @@ Due to the high level nature of this task, there may be some ambiguity in the fu
 * Task that runs periodically to archive old data (ref: Cleanup Job)
   * A Python application, available as a Python script file from CI pipeline output
   * This script reads/writes from/to the same backend database as the NodeJS application
+* The recruiter may ask that you consider additional requirements based on the job opportunity
 
 ## Considerations
 
